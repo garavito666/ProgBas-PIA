@@ -37,12 +37,13 @@ Uso
 Al ejecutar el programa, introduce el nombre de una ciudad para obtener el clima actual y el pronóstico a 5 días.
 
 Colaboradores
-[Gael Adrian Cantú Martínez] - [@Garavito666]
 
-[Kennedy Catalina Rojas Samaniego] - [@Catalinarjss]
+**Gael Adrian Cantú Martínez - @Garavito666**
 
-[Lizeth Eguia Nava] - [@lena-conn]
+**Kennedy Catalina Rojas Samaniego - @Catalinarjss**
 
-[Javier Alejandro Garza Mancilla] - [@JavierMancilla42]
+**Lizeth Eguia Nava - @lena-conn**
 
-[Oswaldo Jahir Rubio Mendez] - [@usuarioGitHub5]
+**Javier Alejandro Garza Mancilla - @JavierMancilla42**
+
+**Oswaldo Jahir Rubio Mendez - @usuarioGitHub5**
